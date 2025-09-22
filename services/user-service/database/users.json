@@ -1,0 +1,78 @@
+[
+  {
+    "id": "5f15898d-06f0-45a2-8ab1-07585cc6f111",
+    "email": "admin@microservices.com",
+    "username": "admin",
+    "password": "$2a$12$XSF/c3jkrXkGUiIbZpZ4VuPbwtzGghAETySgRPHTWS5hi13Ser15W",
+    "firstName": "Nome Atualizado",
+    "lastName": "Sobrenome Atualizado",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2025-09-09T00:38:25.008Z",
+    "updatedAt": "2025-09-22T00:09:40.587Z"
+  },
+  {
+    "id": "302c2157-8106-451d-a05a-c021ed20d0c7",
+    "email": "usuario@exemplo.com",
+    "username": "usuario_exemplo",
+    "password": "$2a$12$x8XWzlEm50mwF9btDtaUW.ctB0I706loV/Sg9sA6jGzXgTxXbhNWO",
+    "firstName": "João",
+    "lastName": "Silva",
+    "preferences": {
+      "defaultStore": "Supermercado Extra",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-21T22:45:20.930Z",
+    "updatedAt": "2025-09-21T22:45:20.931Z"
+  },
+  {
+    "id": "6269611e-07bc-4a36-bc9f-c4bd3b603721",
+    "email": "test@example.com",
+    "username": "testuser",
+    "password": "$2a$12$hgQerI6.HMVXVB2kYcrs0OlpstYaimp7kaIW4/wY693v0fhfwdTjm",
+    "firstName": "Test",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-21T23:07:08.465Z",
+    "updatedAt": "2025-09-21T23:09:08.173Z"
+  },
+  {
+    "id": "85af8bae-f393-4513-b7f2-559083692385",
+    "email": "test@email.com",
+    "username": "testuser2",
+    "password": "$2a$12$dQKP4mcA49Iniug/m/qJAeRjREZwtruLHMz5Deb2MvDrnNOWMJVhi",
+    "firstName": "Test",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-22T00:04:23.904Z",
+    "updatedAt": "2025-09-22T00:05:16.412Z"
+  },
+  {
+    "id": "6851d265-53cd-4e90-9768-a004d1b21608",
+    "email": "teste@email.com",
+    "username": "teste",
+    "password": "$2a$12$a0oBuH2zbfjgemQNt2DsDeyhlscbV6y5yfyo9Ikm2mtWo96Z7st0e",
+    "firstName": "Test",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-22T00:08:00.106Z",
+    "updatedAt": "2025-09-22T00:08:25.918Z"
+  }
+]
